@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://fanou59.github.io/3-columns)
 
 ## My process
 
@@ -49,6 +49,6 @@ Users should be able to:
 ## Author
 
 
-- Frontend Mentor - [@Fanou59](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Fanou59150](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Fanou59](https://www.frontendmentor.io/profile/Fanou59)
+- Twitter - [@Fanou59150](https://www.twitter.com/fanou59150)
 
